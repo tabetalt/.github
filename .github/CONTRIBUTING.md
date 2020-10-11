@@ -28,7 +28,7 @@ Example: `docs: add robotic arms`
 ## Product Development
 
 We use Github issues to track development progress, however product ideas and development are
-kept in ProductBoard. You are welcome to [submit ideas and vote on them](https://ideas.tabetalt.no/).
+kept in ProductBoard. You are welcome to [submit ideas and vote on them](https://docs.tabetalt.no/roadmap).
 
 Do you want to contribute with some of the planned or under consideration features, check out
 [tabetalt/admin](https://github.com/tabetalt/admin) and see if there is an issue that reference
